@@ -224,12 +224,3 @@
 ### 面试技巧
 
 + 《面试知识，工作可待篇-面试技巧篇》
-
-  
-
- 
-
-## 公众号
-
-欢迎关注微信公众号[【**Ccww技术博客**】](#公众号)，原创技术文章第一时间推出  ，并且获取更多资料和视频
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAyMC80LzE0LzE3MTc5MjY5MGIxOWUwYjg?x-oss-process=image/format,png)
